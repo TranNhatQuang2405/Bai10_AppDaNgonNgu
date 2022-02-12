@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bai10_AppDaNgonNgu</string>
+    <string name="text_tieude">Phiếu Thông Tin</string>
+    <string name="hint_hoten">Nhập họ tên</string>
+    <string name="hint_email">Nhập email</string>
+    <string name="hint_sodt">Nhập số điện thoại</string>
+    <string name="text_XacNhan">Xác nhận</string>
+    <string name="text_HoTen">"Xin chào: "</string>
+    <string name="text_DT">Số điện thoại:</string>
+</resources>

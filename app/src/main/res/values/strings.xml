@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bai10_AppDaNgonNgu</string>
+    <string name="text_tieude">Information Form</string>
+    <string name="hint_hoten">Input name</string>
+    <string name="hint_email">Input email</string>
+    <string name="hint_sodt">Input phone</string>
+    <string name="text_XacNhan">Submit</string>
+    <string name="text_HoTen">Hello:</string>
+    <string name="text_Email" translatable="false">Email:</string>
+    <string name="text_DT">Phone:</string>
+</resources>
